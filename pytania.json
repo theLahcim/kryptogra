@@ -1,6 +1,6 @@
 [{
     "tresc" : "Zdekoduj poniższe wiadomości, wiedząc, że zaszyfrowane są szyfrem monoalfabetycznym",
-    "zagadka": "GNWALNTRAGERXFVBZRYQHWRZVFWNEBMCBPMRGN"
+    "zagadka": "GNWALNTRAGERXFVBZRYQHWRZVFWNEBMCBPMRGN",
     "podpowiedz" : "ROT 13",
     "odpowiedz" : "TAJNYAGENTREKSIOMELDUJEMISJAROZPOCZETA"
 }]
