@@ -1,6 +1,12 @@
 [{
-    "tresc" : "Zdekoduj poniższe wiadomości, wiedząc, że zaszyfrowane są szyfrem monoalfabetycznym",
+    "tresc" : "Zdekoduj poniższą wiadomość, wiedząc, że zaszyfrowana jest szyfrem monoalfabetycznym",
     "zagadka": "GNWALNTRAGERXFVBZRYQHWRZVFWNEBMCBPMRGN",
     "podpowiedz" : "ROT 13",
     "odpowiedz" : "TAJNYAGENTREKSIOMELDUJEMISJAROZPOCZETA"
-}]
+},
+ {
+    "tresc" : "Zdekoduj poniższą wiadomość, wiedząc, że zaszyfrowana jest szyfrem monoalfabetycznym",
+    "zagadka": "ZGPTEGMKTZXKQYOUSKRJAPKIKRTGSOKXFUTEOXUFVUFTGTE",
+    "podpowiedz" : "szyfr Cezara",
+    "odpowiedz" : "TAJNYAGENTREKSIOMELDUJECELNAMIERZONYIROZPOZNANY"
+ }]
