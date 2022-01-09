@@ -21,4 +21,22 @@
     "zagadka": "RGYPGIQ RKGMPGIQ RQRQNWFPKC RGYPC RCPK RQOCBCNC RGYPGOW RCPW RQNKEBMK RQOCFMC",
     "podpowiedz" : "Druga najczęstsza litera w komunikacie jest najczęstszą literą w polskim alfabecie.",
     "odpowiedz" : "PEWNEGOPIEKNEGOPOPOLUDNIAPEWNAPANIPOMAZALAPEWNEMUPANUPOLICZKIPOMADKA"
+},
+{
+    "tresc" : "Wywiad odebrał tajne depesze, w których jeden z naszych tajnych agentów przekazał istotne informacje odnośnie ataku nieprzyjaciela. Niestety, podczas nalotów spłonęły księgi kodowe i nie wiadomo, jakimi szyframi oraz kluczami posługuje się tajny agent. Wiadomo jedynie, że jest miłośnikiem zwierząt domowych, a swoje depesze zawsze rozpoczyna tym samym zwrotem TAJNYAGENT… i kończy słowem STOP.",
+    "zagadka": "IINFNIKWCBGRTAMGBMPVJRIRSWFQRQIHAIRGLVMWEZDQYIGATTEKIWT",
+    "podpowiedz" : "Agent uwielbia psy",
+    "odpowiedz" : "TAJNYAGENTCZESIOMELDUJEZDOBYCIEPLANOWNIEPRZYJACIELASTOP"
+},
+{
+    "tresc" : "Wywiad odebrał tajne depesze, w których jeden z naszych tajnych agentów przekazał istotne informacje odnośnie ataku nieprzyjaciela. Niestety, podczas nalotów spłonęły księgi kodowe i nie wiadomo, jakimi szyframi oraz kluczami posługuje się tajny agent. Wiadomo jedynie, że jest miłośnikiem zwierząt domowych, a swoje depesze zawsze rozpoczyna tym samym zwrotem TAJNYAGENT… i kończy słowem STOP.",
+    "zagadka": "ABLHAFCFLBGVFRQDLFIEQNFTABBHFYABQHKQTIIBFVRAKQ",
+    "podpowiedz" : "Agent uwielbia koty",
+    "odpowiedz" : "TAINYAGENTCZESIOMELDUIEATAKNASTAPIOPOLNOCYSTOP"
+},
+{
+    "tresc" : "Wywiad odebrał tajne depesze, w których jeden z naszych tajnych agentów przekazał istotne informacje odnośnie ataku nieprzyjaciela. Niestety, podczas nalotów spłonęły księgi kodowe i nie wiadomo, jakimi szyframi oraz kluczami posługuje się tajny agent. Wiadomo jedynie, że jest miłośnikiem zwierząt domowych, a swoje depesze zawsze rozpoczyna tym samym zwrotem TAJNYAGENT… i kończy słowem STOP.",
+    "zagadka": "GZQMBZTVMGXAVHRLNVOWFQVNRHQZAZPLMXALMZKVOMBNKLDLWAVMRVNHGLK",
+    "podpowiedz" : "Odwrotna kolejność liter w alfabecie",
+    "odpowiedz" : "TAJNYAGENTCZESIOMELDUJEMISJAZAKONCZONAPELNYMPOWODZENIEMSTOP"
 }]
