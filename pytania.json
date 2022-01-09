@@ -1,12 +1,24 @@
 [{
-    "tresc" : "Zdekoduj poniższą wiadomość, wiedząc, że zaszyfrowana jest szyfrem monoalfabetycznym",
+    "tresc" : "Zdekoduj poniższą wiadomość, wiedząc, że zaszyfrowana jest szyfrem monoalfabetycznym.",
     "zagadka": "GNWALNTRAGERXFVBZRYQHWRZVFWNEBMCBPMRGN",
     "podpowiedz" : "ROT 13",
     "odpowiedz" : "TAJNYAGENTREKSIOMELDUJEMISJAROZPOCZETA"
 },
  {
-    "tresc" : "Zdekoduj poniższą wiadomość, wiedząc, że zaszyfrowana jest szyfrem monoalfabetycznym",
+    "tresc" : "Zdekoduj poniższą wiadomość, wiedząc, że zaszyfrowana jest szyfrem monoalfabetycznym.",
     "zagadka": "ZGPTEGMKTZXKQYOUSKRJAPKIKRTGSOKXFUTEOXUFVUFTGTE",
     "podpowiedz" : "szyfr Cezara",
     "odpowiedz" : "TAJNYAGENTREKSIOMELDUJECELNAMIERZONYIROZPOZNANY"
- }]
+ },
+{
+    "tresc" : "Zdekoduj poniższą wiadomość, wiedząc, że zaszyfrowana jest szyfrem monoalfabetycznym.",
+    "zagadka": "GZQMBZTVMGIVPHRLNVOWFQVNRHQZAZPLMXALMZKVOMBNKLDLWAVMRVN",
+    "podpowiedz" : "AtBash",
+    "odpowiedz" : "TAJNYAGENTREKSIOMELDUJEMISJAZAKONCZONAPELNYMPOWODZENIEM"
+},
+{
+    "tresc" : "Komunikat można rozszyfrować wykorzystując analizę częstotliwości.",
+    "zagadka": "RGYPGIQ RKGMPGIQ RQRQNWFPKC RGYPC RCPK RQOCBCNC RGYPGOW RCPW RQNKEBMK RQOCFMC",
+    "podpowiedz" : "Druga najczęstsza litera w komunikacie jest najczęstszą literą w polskim alfabecie.",
+    "odpowiedz" : "PEWNEGOPIEKNEGOPOPOLUDNIAPEWNAPANIPOMAZALAPEWNEMUPANUPOLICZKIPOMADKA"
+}]
