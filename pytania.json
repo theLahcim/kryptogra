@@ -39,4 +39,64 @@
     "zagadka": "GZQMBZTVMGXAVHRLNVOWFQVNRHQZAZPLMXALMZKVOMBNKLDLWAVMRVNHGLK",
     "podpowiedz" : "Odwrotna kolejność liter w alfabecie",
     "odpowiedz" : "TAJNYAGENTCZESIOMELDUJEMISJAZAKONCZONAPELNYMPOWODZENIEMSTOP"
+},
+{
+    "tresc" : "Jedne z naszych agentów zameldował swoją obecność w poniższy sposób i podał nam klucz 77. Jaki to agent?",
+    "zagadka": "11011010 01110001 00101001 10010111 11100111 01000110 10011111 11011110 01111101 00111111 10010000 11111100",
+    "podpowiedz" : "Szyfrowanie XOR, zamień klucz na wartość binarną",
+    "odpowiedz" : "AGENTREKSIO"
+},
+{
+    "tresc" : "Otrzymaliśmy zaszyfrowaną wiadomość i podpowiedź do klucza. Podpowiedź brzmi: Najmniejszy kontynent.",
+    "zagadka": "KUFZLRJHASCWWCAUIZRIRGZCZEANYLXIEYGAUMLKRLTQNOQWCXWTVEICKTJIPLNIWZPPSA",
+    "podpowiedz" : "Szyfr Vernama, klucz Australia",
+    "odpowiedz" : "KANGURYZASIEDLAJAZROZNICOWANETERENYAUSTRALIINOWEJGWINEIISASIEDNICHWYSP"
+},
+{
+    "tresc" : "Otrzymaliśmy wiadomoś od jednego z naszych agentów, niestety nie wiemy jakiej funkcji pierwotnej użył przy jej kodowaniu.",
+    "zagadka": "098f6bcd4621d373cade4e832627b4f6",
+    "podpowiedz" : "MD5",
+    "odpowiedz" : "TEST"
+},
+{
+    "tresc" : "Otrzymaliśmy wiadomoś od jednego z naszych agentów, niestety nie wiemy jakiej funkcji pierwotnej użył przy jej kodowaniu.",
+    "zagadka": "49AA66843380C377E93B198B966EB699",
+    "podpowiedz" : "MD5",
+    "odpowiedz" : "ALAMAKOTA"
+},
+{
+    "tresc" : "Otrzymaliśmy wiadomoś od jednego z naszych agentów, niestety nie wiemy jakiej funkcji pierwotnej użył przy jej kodowaniu.",
+    "zagadka": "bbb2c5e63d2ef893106fdd0d797aa97a",
+    "podpowiedz" : "MD5",
+    "odpowiedz" : "SUPERSECREDPASSWORD"
+},
+{
+    "tresc" : "Otrzymaliśmy wiadomoś od jednego z naszych agentów, niestety nie wiemy jakiej funkcji pierwotnej użył przy jej kodowaniu.",
+    "zagadka": "F9D4049DD6A4DC35D40E5265954B2A46",
+    "podpowiedz" : "MD4",
+    "odpowiedz" : "ADMIN"
+},
+{
+    "tresc" : "Otrzymaliśmy wiadomoś od jednego z naszych agentów, niestety nie wiemy jakiej funkcji pierwotnej użył przy jej kodowaniu.",
+    "zagadka": "4bd44ba402231f35390c1ae3b76f0154",
+    "podpowiedz" : "MD4",
+    "odpowiedz" : "MYPASSWORD"
+},
+{
+    "tresc" : "Otrzymaliśmy wiadomoś od jednego z naszych agentów, niestety nie wiemy jakiej funkcji pierwotnej użył przy jej kodowaniu.",
+    "zagadka": "efe62f253c056eb3d1f99e1f640b6e9d7caf7b93",
+    "podpowiedz" : "SHA1",
+    "odpowiedz" : "KOT"
+},
+ {
+    "tresc" : "Otrzymaliśmy wiadomoś od jednego z naszych agentów, niestety nie wiemy jakiej funkcji pierwotnej użył przy jej kodowaniu.",
+    "zagadka": "16a2d96c2a9e2080e925af9cc6e42bb381f01059",
+    "podpowiedz" : "SHA1",
+    "odpowiedz" : "PIES"
+},
+{
+    "tresc" : "W wiadomości otrzymaliśmy zakodowane imie, naszego nowego rekruta. Otrzymaliśmy także klucz jawny (703;59). Jak ma na imie nasz nowy rekrut.",
+    "zagadka": "637459",
+    "podpowiedz" : "RSA",
+    "odpowiedz" : "ANNA"
 }]
