@@ -99,4 +99,10 @@
     "zagadka": "637459",
     "podpowiedz" : "RSA",
     "odpowiedz" : "ANNA"
+},
+{
+    "tresc" : "W wiadomości otrzymaliśmy zakodowane imie, naszego nowego rekruta. Otrzymaliśmy także klucz jawny (703;59). Jak ma na imie nasz nowy rekrut.",
+    "zagadka": "637459",
+    "podpowiedz" : "RSA",
+    "odpowiedz" : "ANNA"
 }]
